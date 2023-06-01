@@ -1,0 +1,37 @@
+body {
+    font-size: Arial;
+}
+
+h1 {
+
+    font-size: Verdana 32px;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.picture {
+    text-align: center;
+}
+
+p.greeting {
+    font-size: 24px;
+}
+
+/*
+    Комментарий
+*/
+.picture img {
+    width: 67%;
+}
+
+address {
+    text-align: right;
+}
+
+em {
+    font-weight: normal;
+}
